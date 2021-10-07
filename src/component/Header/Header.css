@@ -1,0 +1,14 @@
+
+  .blue{
+    background-color: chartreuse;
+    height: 30px;
+  }
+  .border{
+     background-color: chocolate;
+     margin: 10px;
+     margin-top: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    height: 20px;
+    padding: 5px;
+    }
